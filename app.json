@@ -1,9 +1,9 @@
 {
-    "name": "Ultroid UserBot",
+    "name": "Xavier UserBot",
     "description": "Pluggable telegram userbot, made in python using Telethon.",
     "logo": "https://telegra.ph/file/1518e15421d21c5afd9af.jpg",
     "keywords": ["Telethon", "telegram", "userbot", "python"],
-    "repository": "https://github.com/TeamUltroid/Ultroid",
+    "repository": "https://github.com/Khushmeet-op/TestUserbot",
     "website": "https://ultroid.now.sh/",
     "success_url": "https://t.me/TheUltroid",
     "stack": "container",
