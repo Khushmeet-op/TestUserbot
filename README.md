@@ -48,8 +48,8 @@ and click the below button!  <br />
 - Run the bot:   
 `bash resources/startup/startup.sh`
 
-Made with 💕 by [@TeamUltroid](https://t.me/TeamUltroid). <br />
+Made with 💕 by [Khush](https://t.me/@Khushmeet1). <br />
 
 # Credits
-* [Lonami](https://github.com/LonamiWebs/) for [Telethon](https://github.com/LonamiWebs/Telethon)
+* [Khush](https://github.com/LonamiWebs/) for [Telethon](https://github.com/LonamiWebs/Telethon)
 
